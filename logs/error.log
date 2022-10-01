@@ -1,0 +1,6 @@
+2022-09-23 19:19:44:1944 [31merror[39m: [31mconnect ECONNREFUSED ::1:27017[39m
+2022-09-23 19:20:49:2049 [31merror[39m: [31mconnect ECONNREFUSED ::1:12345[39m
+2022-09-23 19:22:43:2243 [31merror[39m: [31mconnect ECONNREFUSED ::1:12345[39m
+2022-09-23 19:25:26:2526 [31merror[39m: [31mconnect ECONNREFUSED ::1:12345[39m
+2022-09-23 19:27:07:277 [31merror[39m: [31mconnect ECONNREFUSED ::1:12345[39m
+2022-09-23 19:29:18:2918 [31merror[39m: [31mVISWAAmongodb://localhost:12345/kalakriticonnect ECONNREFUSED ::1:12345[39m
